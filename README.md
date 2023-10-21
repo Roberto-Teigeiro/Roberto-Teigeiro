@@ -1,16 +1,13 @@
-### Hi there 👋
+### ![Lightsaber](logos-emojis/lightsaber.png) Hello there![Lightsaber](logos-emojis/lightsaber.png)
 
-<!--
-**Roberto-Teigeiro/Roberto-Teigeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Roberto and i'm a current CS Student @ ITESM.
+Lets link!
+### [Linkedin](https://www.linkedin.com/in/roberto-anwar-teigeiro-aguilar-3b681724a/)
+### [My mail!](mailto:a01643652@tec.mx)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Experience:
+- 🚧 WIP
+
+#### Personal Projects:
+- 🚧 WIP
