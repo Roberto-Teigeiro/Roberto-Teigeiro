@@ -1,4 +1,4 @@
-[<img src="logos-emojis/lightsaber.png" width="16"/>](logos-emojis/lightsaber.png) Hello there! [<img src="logos-emojis/lightsaber.png" width="16"/>](logos-emojis/lightsaber.png)
+[<img src="logos-emojis/lightsaber.png" width="32"/>](logos-emojis/lightsaber.png) ### Hello there! [<img src="logos-emojis/lightsaber.png" width="32"/>](logos-emojis/lightsaber.png)
 
 My name is Roberto and i'm a current CS Student @ ITESM.
 Lets link!
