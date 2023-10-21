@@ -1,4 +1,4 @@
-### ![Lightsaber](logos-emojis/lightsaber.png) Hello there![Lightsaber](logos-emojis/lightsaber.png)
+![Lightsaber](logos-emojis/lightsaber.png){:height="16px" width="16px"} Hello there![Lightsaber](logos-emojis/lightsaber.png){:height="16px" width="16px"}
 
 My name is Roberto and i'm a current CS Student @ ITESM.
 Lets link!
