@@ -6,8 +6,3 @@ Lets link!
 ### [My mail!](mailto:a01643652@tec.mx)
 
 
-#### Experience:
-- 🚧 WIP
-
-#### Personal Projects:
-- 🚧 WIP
