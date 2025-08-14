@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Roberto Teigeiro</h1>
 <h3 align="center">A passionate SWE From Mexico</h3>
 
-- 🔭 I’m currently working on
+Currently [Fullstack Intern @ Paystand](https://www.paystand.com/)
+
+
+- 🔭 I’ve worked as 
 - [SWE @ HERE Technologies](https://www.here.com/)
 - [Full-Stack Dev @ SOCA Exchange](https://socaexchange.com/)
 
